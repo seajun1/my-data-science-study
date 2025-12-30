@@ -1,1 +1,2 @@
 # コンペの分析コード
+-gender_submission.csvからtrain.csvへの表示切り替えがわからなかったが、Data Explorerから展開して切り替えられた
